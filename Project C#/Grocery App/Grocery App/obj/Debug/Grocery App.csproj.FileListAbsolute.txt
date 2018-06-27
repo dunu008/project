@@ -1,0 +1,29 @@
+F:\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.exe.config
+F:\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.exe
+F:\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.pdb
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csprojAssemblyReference.cache
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmMain.resources
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.Properties.Resources.resources
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csproj.GenerateResource.cache
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csproj.CoreCompileInputs.cache
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.exe
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.pdb
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmClose.resources
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmPreloader.resources
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmLogin.resources
+F:\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmRegistration.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.exe.config
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.exe
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\bin\Debug\Grocery App.pdb
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csprojResolveAssemblyReference.cache
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmClose.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmLogin.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmMain.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmPreloader.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.Properties.Resources.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.frmRegistration.resources
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csproj.GenerateResource.cache
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.csproj.CoreCompileInputs.cache
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.exe
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery App.pdb
+C:\Users\osura\Desktop\Project C#\Grocery App\Grocery App\obj\Debug\Grocery_App.Form1.resources
